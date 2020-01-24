@@ -12,9 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  
-	<properties>
+ 
 		<!---...-->
 		<sonar.host.url>http://sonarqube:9000</sonar.host.url>
 		<sonar.exclusions>**bootstrap**</sonar.exclusions>
