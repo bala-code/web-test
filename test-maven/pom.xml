@@ -12,7 +12,10 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
- 
+		 <!---...-->
+		<sonar.host.url>http://15.188.204.51:10580</sonar.host.url>
+		<sonar.exclusions>**bootstrap**</sonar.exclusions>
+		<!--...-->
 		
 	</properties>
   
